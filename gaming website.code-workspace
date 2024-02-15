@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/team-logo-1_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gaming website"
+	}
+}
